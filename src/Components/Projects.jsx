@@ -10,7 +10,7 @@ function Projects() {
       {
         img: organicFood,
         text: "Organic Food E-Commerce Project (Built with ASP.NET Core MVC, SQL Server, and Entity Framework with Stored Procedures)",
-        link: "https://github.com/YourGitHubUsername/OrganicFoodEcommerce", // update later with real repo
+        link: "https://github.com/Gowthamkumar91/OrganicProduct", // update later with real repo
       },
     ],
   };
